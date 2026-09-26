@@ -1,0 +1,4 @@
+Student Name: Lara Marie P. Nunez
+Student ID: 2025-01-14406
+Section: BSCS 2B
+Course: CS 106 - App Dev
